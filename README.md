@@ -59,7 +59,7 @@ Exploring **Bayer & Fuji X-Trans filters** using **interpolation & convolution t
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,php,js,html,css,opencv,numpy,matplotlib" />
-  <img src="" />
+  <!--<img src="" />-->
   <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
@@ -100,7 +100,7 @@ Exploring **Bayer & Fuji X-Trans filters** using **interpolation & convolution t
   <a href="https://www.linkedin.com/in/tomasz-piaseczny/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:tpiasekk@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
