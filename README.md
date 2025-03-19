@@ -22,7 +22,7 @@
 **Tech:** Python, NumPy, Matplotlib  
 Applying **Fourier & Wavelet transforms** and **Gaussian blur** to improve image quality.  
 
-<img src="PLACEHOLDER_IMAGE_URL" alt="Image Compression & Denoising" width="600">
+<!--<img src="PLACEHOLDER_IMAGE_URL" alt="Image Compression & Denoising" width="600">-->
 
 ---
 
@@ -30,7 +30,7 @@ Applying **Fourier & Wavelet transforms** and **Gaussian blur** to improve image
 **Tech:** Python, Matplotlib, NumPy  
 Simulating **propeller motion anti-aliasing** to visualize and mitigate aliasing effects.  
 
-<img src="PLACEHOLDER_IMAGE_URL" alt="Anti-Aliasing Simulation" width="600">
+<!--<img src="PLACEHOLDER_IMAGE_URL" alt="Anti-Aliasing Simulation" width="600">-->
 
 ---
 
